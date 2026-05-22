@@ -84,6 +84,6 @@ Add multilingual support
 Deploy on a server
 Add inline keyboards
 Improve recommendation algorithm
-👨‍💻 Author
 
+👨‍💻 Author
 Created with Python and Telegram Bot API.
